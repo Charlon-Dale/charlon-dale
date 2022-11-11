@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlon-Dale&count_private=true&show_icons=true" alt="Charlon-Dale" /></p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Charlon-Dale&label=Profile%20views&color=0e75b6&style=flat" alt="Charlon-Dale" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Charlon-Dale&label=Profile%20views&color=0e75b6&style=flat" alt="Charlon-Dale" /></p> -->
 
 <!--
 **Charlon-Dale/Charlon-Dale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
