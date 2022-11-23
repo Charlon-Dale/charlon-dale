@@ -1,4 +1,6 @@
 #### 📊 **Github Stats**
+<a href="https://app.daily.dev/heychadie"><img src="https://api.daily.dev/devcards/20f13e3535634b8f8eb13f7ef0a8d2c2.png?r=osf" width="400" alt="Charlon Dale San Agustin's Dev Card"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlon-Dale" alt="Charlon-Dale" /></p>
