@@ -1,5 +1,8 @@
 #### 📊 **Github Stats**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlon-Dale" alt="Charlon-Dale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlon-Dale&count_private=true&show_icons=true" alt="Charlon-Dale" /></p>
