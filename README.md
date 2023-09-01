@@ -1,10 +1,8 @@
-#### 📊 **Github Stats**
 
-Hello There! 
+
+<h1>👋Hello There!👋</h1> 
 
 I'm Charlon-Dale/Charlon-Dale**, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites.
-
-Beyond surface-level design, I excel in effectuating seamless design-to-code translations, fostering seamless interdisciplinary collaboration. My unwavering dedication to ongoing professional growth ensures a constant infusion of innovative insights into each project, making me an invaluable ally in engineering immersive, triumphant online presences.
 
 Here are some ideas to get you started:
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My gmail address - charlondalesanagustin@gmail.com My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/
 - 😄 Pronouns: He/Him
 
+#### 📊 **Github Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 
