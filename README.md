@@ -2,16 +2,16 @@
 
 <h1>👋Hello There!👋</h1> 
 
-<h2>I'm Charlon-Dale San Agustin, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites. </h2>
+<p>I'm Charlon-Dale San Agustin, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites. </p>
 
-Here are some ideas to get you started:
+<h2>Here are some ideas to get you started:</h2>
 
-- 🔭 I’m currently working on building projects to showcase and enhance my skills.
-- 🌱 I’m currently learning JavaScript, SaaS, ReactJS.
-- 👯 I’m looking to collaborate on future clients.
-- 💬 Ask me about Front-end development and UI/UX Design
-- 📫 How to reach me: My gmail address - charlondalesanagustin@gmail.com My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/
-- 😄 Pronouns: He/Him
+<h3>- 🔭 I’m currently working on building projects to showcase and enhance my skills. </h3>
+<h3>- 🌱 I’m currently learning JavaScript, SaaS, ReactJS.</h3>
+<h3>- 👯 I’m looking to collaborate on future clients.</h3>
+<h3>- 💬 Ask me about Front-end development and UI/UX Design.</h3>
+<h3>- 📫 How to reach me: My gmail address - charlondalesanagustin@gmail.com My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/ </h3> 
+<h3>- 😄 Pronouns: He/Him</h3>
 
 #### 📊 **Github Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
