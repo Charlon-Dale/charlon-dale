@@ -10,8 +10,10 @@
 <h3>- 🌱 I’m currently learning JavaScript, SaaS, ReactJS.</h3>
 <h3>- 👯 I’m looking to collaborate on future clients.</h3>
 <h3>- 💬 Ask me about Front-end development and UI/UX Design.</h3>
-<h3>- 📫 How to reach me: My gmail address - charlondalesanagustin@gmail.com My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/ </h3> 
-<h3>- 😄 Pronouns: He/Him</h3>
+<h3>- 📫 How to reach me: </h3> 
+<h3>     My gmail address - charlondalesanagustin@gmail.com </h3>
+<h3>     My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/ </h3> 
+<h3>- 😄 Pronouns: He/Him </h3>
 
 #### 📊 **Github Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
