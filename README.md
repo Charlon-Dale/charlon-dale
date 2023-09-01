@@ -1,5 +1,20 @@
 #### 📊 **Github Stats**
 
+Hello There! 
+
+I'm Charlon-Dale/Charlon-Dale**, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites.
+
+Beyond surface-level design, I excel in effectuating seamless design-to-code translations, fostering seamless interdisciplinary collaboration. My unwavering dedication to ongoing professional growth ensures a constant infusion of innovative insights into each project, making me an invaluable ally in engineering immersive, triumphant online presences.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on building projects to showcase and enhance my skills.
+- 🌱 I’m currently learning JavaScript, SaaS, ReactJS.
+- 👯 I’m looking to collaborate on future clients.
+- 💬 Ask me about Front-end development and UI/UX Design
+- 📫 How to reach me: My gmail address - charlondalesanagustin@gmail.com My linkedin account - https://www.linkedin.com/in/charlon-san-agustin/
+- 😄 Pronouns: He/Him
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlon-Dale&layout=compact&langs_count=10&hide=Batchfile,XSLT,Makefile,shell,dockerfile,Objective-C,Starlark,Ruby,Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -12,17 +27,5 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Charlon-Dale&label=Profile%20views&color=0e75b6&style=flat" alt="Charlon-Dale" /></p> 
 
-<!--
-**Charlon-Dale/Charlon-Dale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
