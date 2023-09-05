@@ -1,6 +1,6 @@
 
 
-<h1>👋Hello There!👋</h1> 
+<h1>Hello There!👋</h1> 
 
 <p>I'm Charlon-Dale San Agustin, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites. </p>
 
