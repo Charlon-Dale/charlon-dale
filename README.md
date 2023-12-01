@@ -2,14 +2,14 @@
 
 <h1>Hello There!👋</h1> 
 
-<p>I'm Charlon-Dale San Agustin, an emerging Front-End Developer and I adeptly integrate creative aesthetics with cutting-edge technology to architect compelling digital journeys. Proficient in HTML, CSS, and JavaScript, I'm resolute in my commitment to forging responsive, cross-device compatible websites. </p>
+<p> I'm a dedicated aspiring Quality Assurance with internship experience in software testing, dedicated to ensuring top-quality products. I excel in creating test cases, and manual testing collaborating effectively with cross-functional teams to spot issues early on. </p>
 
 <h2>Here are some ideas to get you started:</h2>
 
-<h3>- 🔭 I’m currently working on building projects to showcase and enhance my skills. </h3>
-<h3>- 🌱 I’m currently learning JavaScript, SaaS, ReactJS.</h3>
-<h3>- 👯 I’m looking to collaborate on future clients.</h3>
-<h3>- 💬 Ask me about Front-end development and UI/UX Design.</h3>
+<h3>- 🔭 I’m currently honing my skills in Manual testing to further forward in automation. </h3>
+<h3>- 🌱 I’m currently learning JavaScript programming language which is required to understand when using cypress for automation.</h3>
+<h3>- 👯 I’m looking to collaborate on future clients and employers.</h3>
+<h3>- 💬 Ask me about Software Quality Assurance.</h3>
 <h3>- 📫 How to reach me: 📧 charlondalesanagustin@gmail.com </h3>
 <h3>- 😄 Pronouns: He/Him </h3>
 
