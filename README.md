@@ -23,9 +23,8 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlon-Dale&count_private=true&show_icons=true" alt="Charlon-Dale" /></p>-->
 
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Charlon-Dale&label=Profile%20views&color=0e75b6&style=flat" alt="Charlon-Dale" /></p> 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64905c40db7de05a7a6e8915?variant=dark" alt="roadmap.sh"/></a>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Charlon-Dale&label=Profile%20views&color=0e75b6&style=flat" alt="Charlon-Dale" /></p> 
 
 
 
