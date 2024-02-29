@@ -2,7 +2,7 @@
 
 <h1>Hello There!👋</h1> 
 
-<p> I'm a dedicated aspiring Quality Assurance with internship experience in software testing, dedicated to ensuring top-quality products. I excel in creating test cases, and manual testing collaborating effectively with cross-functional teams to spot issues early on. </p>
+<p> I'm a dedicated aspiring Quality Assurance with experience in software testing, dedicated to ensuring top-quality products. I excel in creating test cases, and manual testing collaborating effectively with cross-functional teams to spot issues early on. </p>
 
 <h2>Here are some ideas to get you started:</h2>
 
