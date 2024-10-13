@@ -6,9 +6,9 @@
 
 <h2>Here are some ideas to get you started:</h2>
 
-<h3>- 🔭 I’m currently honing my skills in Manual testing to further forward in automation. </h3>
-<h3>- 🌱 I’m currently learning JavaScript programming language which is required to understand when using cypress for automation.</h3>
-<h3>- 👯 I’m looking to collaborate on future clients and employers.</h3>
+<h3>- 🔭 I’m currently honing my skills in Automation testing. </h3>
+<h3>- 🌱 I’m currently Playwright, Postman, and Cypress for test automation.</h3>
+<h3>- 👯 I’m looking to collaborate with future clients. </h3>
 <h3>- 💬 Ask me about Software Quality Assurance.</h3>
 <h3>- 📫 How to reach me: 📧 charlondalesanagustin@gmail.com </h3>
 <h3>- 😄 Pronouns: He/Him </h3>
